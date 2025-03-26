@@ -1,7 +1,7 @@
 <template>
-  <p>{{ contador }}</p>
-  <button @click="incrementar">Incrementar</button>
-  <button @click="decrementar">Decrementar</button>
+  <p>{{ contador }}</p><br>
+  <button @click="incrementar">Incrementar</button><br>
+  <button @click="decrementar">Decrementar</button><br>
 
 
 </template>
